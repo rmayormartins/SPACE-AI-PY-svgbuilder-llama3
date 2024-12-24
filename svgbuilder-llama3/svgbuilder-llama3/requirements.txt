@@ -1,0 +1,4 @@
+groq
+gradio==4.29.0
+svgwrite
+aiofiles
